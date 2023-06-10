@@ -34,6 +34,7 @@ It attempts to identify the price trend and predict potential price shifts by fi
 Provides insights of potential price fluctuations of BMW vehicles over time.
 
 4.1-Interpretation
+
 In this part, we will investigate the effects of several features to the prices of cars in Turkey:
 
 Model Year: The visualization confirms that newer cars have higher prices. Classic cars from 1960 also have high demand, indicating their higher value. But in general, we can say that the model year directly influences the car price.
