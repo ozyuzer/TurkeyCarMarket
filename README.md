@@ -62,7 +62,7 @@ This analysis studies whether there is a correlation between the manufacturer an
 This visualization aims to observe and diagnose the potential pattern the price observations can exhibit. It attempts to identify the price trend and predict potential price shifts by fitting a polynomial curve with historical data.
 - **Insight:** Provides insights into potential price fluctuations of BMW vehicles over time.
 
-![alt text](https://github.com/ozyuzer/TurkeyCarMarket/plots/Picture2.png)
+![alt text](https://github.com/ozyuzer/turkeycarmarket/blob/main/plots/Picture2.png)
 
 ### Interpretation
 In this part, we investigated the effects of several features on the prices of cars in Turkey:
@@ -95,4 +95,4 @@ We employed the LinearRegression algorithm from scikit-learn to create our linea
 ### Results
 - **R2 Score:** 88%, indicating that the model explains a significant portion of the variance in car prices.
 
-![alt text](https://github.com/ozyuzer/TurkeyCarMarket/plots/Picture1.png)
+![alt text](https://github.com/ozyuzer/turkeycarmarket/blob/main/plots/Picture1.png)
